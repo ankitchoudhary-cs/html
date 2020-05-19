@@ -1,0 +1,8 @@
+Consider the following points while writting the HTML code:-
+(i) The title of the Web Page is Google Apps.
+(ii) Text style of the page is Trebuchet MS.
+(iii) The image used in the heading and that used in the table can be founded in the description.
+(iv) The table has red color border that is 5 pixels thick.
+(v) Create the given list eith apprpriate type.
+(vi) Use the concept of spanning for placing image accross rows.
+(vii) The link at the bottom is an e-mail to the address google@gmail.com
